@@ -1,0 +1,40 @@
+{
+  "users": {
+  },
+  "favourites": {
+  },
+  "meals": [
+    {
+      "id": 1,
+      "title": "Home"
+    },
+    {
+      "id": 2,
+      "title": "Shop"
+    }
+  ],
+  "recipes" : [
+    {
+      "id": 1,
+      "slug": "this-is-an-article",
+      "title": "PECB Articles",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "author": "John Smith",
+      "category": 1,
+      "image": "https://insights.pecb.com/wp-content/uploads/2017/02/Tariq-Khan-Corporate-Social-Responsibility.jpg",
+      "ingredients": [
+        "sed do eiusmod tempor incididunt",
+        "aute irure dolor in",
+        "do eiusmod tempor",
+        "uis aute irure dolor in",
+        "doloremque laudantium",
+        "cupidatat non proident"
+      ],
+      "method": [
+        "iste natus error sit voluptatem accusantium doloremque laudantium",
+        "magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
+        "sed quia non numquam eius modi tempora incidunt ut labore"
+      ]
+    }
+  ]
+}
